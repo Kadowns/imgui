@@ -9,6 +9,8 @@ set(IMGUI_SOURCE
 
 set(IMGUI_HEADER
         imgui.cpp
+        imgui_draw.cpp
+        imgui_widgets.cpp
         misc/cpp/imgui_stdlib.cpp
         )
 
